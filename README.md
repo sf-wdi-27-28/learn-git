@@ -12,10 +12,15 @@
 
   ![screen-shot-2015-10-20-at-17 22 43](https://cloud.githubusercontent.com/assets/3010270/13687431/17d1d2e6-e6d0-11e5-8a5f-9f1575f03aa9.png)
 
-4. Use the "clone URL" to clone the repo onto your local machine. Make sure you're in your `~/develop` directory before you clone!
+1. Make a `wdi` directory. This is where you will put all your work from this class. 
+  ```
+  ➜ mkdir ~/wdi
+  ```
+
+4. Use the "clone URL" to clone the repo onto your local machine. Make sure you're in your `~/wdi` directory before you clone!
 
   ```zsh
-  ➜  cd ~/develop
+  ➜  cd ~/wdi
   ➜  git clone <clone-url>
   ```
 
