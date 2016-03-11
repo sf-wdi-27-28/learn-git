@@ -12,7 +12,7 @@
 
   ![screen-shot-2015-10-20-at-17 22 43](https://cloud.githubusercontent.com/assets/3010270/13687431/17d1d2e6-e6d0-11e5-8a5f-9f1575f03aa9.png)
 
-1. Make a `wdi` directory. This is where you will put all your work from this class. 
+1. Make a `wdi` directory. This is where you will put all your work from this class.
   ```
   ➜ mkdir ~/wdi
   ```
@@ -54,7 +54,7 @@
 1. Next step is committing. Type
 
   ```
-  ➜  git commit -m "adding YOUR_FIRST_NAME file"
+  ➜  git commit -m "modifying index.html"
   ```
   Then `git status`. Notice that the new status is `Your branch is ahead of 'origin/master' by 1 commit.`. This indicates that your the version of the repo on your computer (aka the __local__ version) includes your changes but the version hosted by GitHub (aka the __remote__ version) does not.
 
