@@ -1,10 +1,5 @@
 # Learn Git Lab
 
-Clone repo
-Make a file via command line
-Open in Atom
-fill in new file with info
-
 1. Create a fork of the [learn-git repository](https://github.com/sf-wdi-27-28/learn-git) by clicking "Fork" on the top right.
 
   ![screen-shot-2015-10-20-at-17 26 49](https://cloud.githubusercontent.com/assets/7833470/10625501/b15a2bee-7758-11e5-8b12-2c84b785801b.png)
@@ -30,27 +25,13 @@ fill in new file with info
   ➜  cd learn-git
   ```
 
-6. Create a new file called `<Your_first_name>.html` in the command line.
+6. Open this project in Atom.
 
   ```zsh
-  touch juliana.html
+  atom .
   ```
 
-1. Back in Atom, open your new name file. Fill in with a basic `HTML` template.
-
-  ```html
-  <!DOCTYPE html>
-  <html>
-  <head>
-    <title>YOUR NAME HERE</title>
-  </head>
-  <body>
-
-  </body>
-  </html>
-  ```
-
-1. In your `<body>` tags, create an `<h1>` tag with your name and add a gif of your liking in an `<img>` tag. "Copy Image Address" from [giphy.com](http://giphy.com/).
+1. Back in Atom, open `index.html`. In the `<body>` tags, create an `<h1>` tag with your name and add a gif of your liking in an `<img>` tag. "Copy Image Address" from [giphy.com](http://giphy.com/).
 
 6. Now that you've changed the repo, it's time to commit your changes. Back in your terminal, type
 
@@ -87,4 +68,4 @@ fill in new file with info
 
   ![screen-shot-2015-10-20-at-17 25 49](https://cloud.githubusercontent.com/assets/7833470/10625507/bc97d38a-7758-11e5-8fe9-e4846e06e454.png)
 
-1. Repeat! Add some new content to your file and repeat this Git flow. 
+1. Repeat! Add some new content to your file and repeat this Git flow.
